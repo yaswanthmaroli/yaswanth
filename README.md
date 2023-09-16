@@ -1,7 +1,44 @@
 # yaswanth[![MasterHead](https://c8.alamy.com/comp/2J4955T/html-computer-programming-coding-language-website-developing-technology-background-mixed-media-banner-2J4955T.jpg)](https://github.com/yaswanthmaroli/yaswanth#yaswanth)
 
 <h1 align="center">Hi 👋, I'm yaswanth</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Yaswanth M
+https://www.linkedin.com/in/yaswanth-m-b2573a239
+ 
+ 
+
+🚀 React Native Developer | Mobile App Enthusiast | React Developer | Passionate about building great user experiences.
+
+📍 [Kannur, kerala]
+
+## Skills
+- React Native
+  React
+- JavaScript
+- Redux
+- API Integration
+- UI/UX Design
+- Git/GitHub
+- Firebase
+
+
+## Work Experience
+
+### [Infospica consultancy services/ Software Developer]
+**Company Name** - [Infospica Consultacy Services, Technopark](https://www.infospica.com/)
+*Location: Trivandram, Kerala*
+*Date Started - FEB 20 2023*
+
+-  As a React Native Developer at Infospica Consultancy services Technopark, I play a vital role in crafting exceptional mobile experiences. Leveraging your expertise in JavaScript and React Native, I collaborate with our cross-functional team to build, optimize, and maintain high-quality mobile applications for both iOS and Android platforms. My responsibilities include translating design specifications into responsive and performant mobile UIs, integrating APIs, and ensuring the seamless functionality of our apps. My work not only contributes to enhancing user engagement but also empowers our company to stay at the forefront of mobile technology innovation. 
+
+### [UI developer]
+**Previous Company Name** - [Jkl infosolutions Kannur](https://jklinfosolutions.com/)
+*Location: Kannur, Kerala*
+ 
+
+- 
+
+ 
+ </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaswanthmaroli&label=Profile%20views&color=0e75b6&style=flat" alt="yaswanthmaroli" /> </p>
